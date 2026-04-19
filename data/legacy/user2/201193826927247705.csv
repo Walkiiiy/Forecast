@@ -1,0 +1,3 @@
+﻿user_id,vin,start_time,start_lon,start_lat,end_time,end_lon,end_lat,client_app_id,connect_duration
+201193826927247705,LGWEF5A56PH021532,2026-01-14 07:22:22,120.36,40.33,2026-01-14 07:48:50,120.36,40.33,4,1588
+201193826927247705,LGWEF5A56PH021532,2026-01-24 17:54:01,,,2026-01-24 18:01:50,,,4,468

@@ -1,0 +1,26 @@
+{
+  "model": "random_forest_global",
+  "threshold_selection": "best_f1_on_calibration",
+  "best_f1_threshold_calib": 0.5785674517556235,
+  "calib_best_f1": {
+    "precision": 0.24743892828999212,
+    "recall": 0.4204418656549877,
+    "f1": 0.3115336916081025
+  },
+  "test_at_best_f1_threshold": {
+    "precision": 0.24439554394168614,
+    "recall": 0.3907211961301671,
+    "f1": 0.30070225907437176
+  },
+  "test_auc": 0.8066099976601023,
+  "test_logloss": 0.3491478956565598,
+  "day_stats": {
+    "users_used": 109.0,
+    "total_days": 31417.0,
+    "active_days": 9750.0,
+    "inferred_negative_days": 2039.0,
+    "unknown_days": 19628.0,
+    "unknown_ratio": 0.6247572970048063,
+    "known_ratio": 0.3752427029951937
+  }
+}

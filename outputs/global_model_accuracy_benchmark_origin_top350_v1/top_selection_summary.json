@@ -1,0 +1,9 @@
+{
+  "source_csv": "data/legacy/origin.csv",
+  "requested_top_n": 350,
+  "actual_selected_users": 131,
+  "selected_rows_total": 85538,
+  "selected_rows_median_per_user": 257.0,
+  "selected_rows_min_per_user": 2,
+  "selected_rows_max_per_user": 4965
+}
